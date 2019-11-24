@@ -1,2 +1,3 @@
 git config --global user.name <<"name">> --> Nombre de Usuario en GIT
 git config --global user.email <<email>> --> Correo de Usuario en GIT
+prueba
